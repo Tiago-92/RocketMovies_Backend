@@ -6,7 +6,7 @@
 
 - A API foi desenvolvia em Node.js, as rotas e requisições Rest com o Express + Insomnia e o banco de dados com SQLite + Knex.js.
 
-- O Front-end foi desenvolvido em React + styled-componentes e está em outro repósitório: RocketMovies_frontend; 
+- O Front-end foi desenvolvido em React + styled-componentes e está em outro repósitório: [RocketMovies_frontend](https://github.com/Tiago-92/RocketMovies_frontend) 
 
 Algumas funcionalidades da API:
 - Autenticação de usuário com middleware e JWT;
