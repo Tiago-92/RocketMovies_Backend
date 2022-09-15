@@ -4,7 +4,7 @@
 
 - É possível criar uma conta para autenticação de usuário.
 
-- A API foi desenvolvia em Node.js, as rotas e requisições Rest com o Express + Insomnia e o banco de dados com SQLite + Knex.js.
+- A API foi desenvolvia em Node.js, as rotas e requisições HTTP com Express + Insomnia e o banco de dados com SQLite + Knex.js.
 
 - O Front-end foi desenvolvido em React + styled-componentes e está nesse repósitório: [RocketMovies_frontend](https://github.com/Tiago-92/RocketMovies_frontend) 
 
