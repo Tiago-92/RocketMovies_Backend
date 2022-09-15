@@ -12,5 +12,5 @@ Algumas funcionalidades da API:
 - Autenticação de usuário com middleware e JWT;
 - Criptografia de senha com bcryptjs;
 - Criação de tabelas no banco de dados com o query builder Knex.js;
-- Upload do avatar do usuário com o Middleware Multer.
+- Upload do avatar do usuário com o middleware Multer.
 
