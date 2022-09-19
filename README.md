@@ -16,12 +16,6 @@ Algumas funcionalidades da API:
 
 Deploy em: https://rocketmoviesapp.netlify.app
 
-Para teste da aplicação:
-
-- user1@user.com
-
-- senha: user123
-
 Rotas e requisições HTTP com o Insomnia:
 
 ![Captura de tela de 2022-09-15 13-08-38](https://user-images.githubusercontent.com/99975837/190456282-153ca657-d3b5-478e-8b87-07b808dbbb18.png)
