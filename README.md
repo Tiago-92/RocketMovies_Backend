@@ -14,8 +14,6 @@ Algumas funcionalidades da API:
 - Criação de tabelas no banco de dados com o query builder Knex.js;
 - Upload do avatar do usuário com o middleware Multer.
 
-Deploy em: https://rocketmoviesapp.netlify.app
-
 Rotas e requisições HTTP com o Insomnia:
 
 ![Captura de tela de 2022-09-15 13-08-38](https://user-images.githubusercontent.com/99975837/190456282-153ca657-d3b5-478e-8b87-07b808dbbb18.png)
